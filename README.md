@@ -124,7 +124,7 @@ git push origin main
 ```
 - Watch ArgoCD automatically sync changes!
 
-###b🐛 Troubleshooting
+### 🐛 Troubleshooting
 - Issue: ArgoCD pods not starting
 
 ```
